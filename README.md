@@ -28,9 +28,6 @@ It also introduces an AI-powered voice transaction feature that allows users to 
 |:---:|:---:|:---:|
 | ![Add Transaction](screenshots/addtransaction.png) | ![Statistics](screenshots/statistics.png) | ![Notifications](screenshots/notification.png) |
 
-### Profile
-
-![Profile](screenshots/profile.png)
 
 ---
 
