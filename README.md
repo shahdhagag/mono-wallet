@@ -20,7 +20,7 @@ It also introduces an AI-powered voice transaction feature that allows users to 
 
 | Home Dashboard | Add Account | Add Card |
 |:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Add Account](screenshots/addacount.png) | ![Add Card](screenshots/addcard.png) |
+| ![Home](screenshots/home.png) | ![Add Account](screenshots/addaccount.png) | ![Add Card](screenshots/addcard.png) |
 
 ### Transactions & Statistics
 
