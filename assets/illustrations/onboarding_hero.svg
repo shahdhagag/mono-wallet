@@ -1,0 +1,89 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6FBFB"/>
+      <stop offset="1" stop-color="#EAF5F5"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="418" y1="296" x2="610" y2="596" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B8E88"/>
+      <stop offset="1" stop-color="#236964"/>
+    </linearGradient>
+    <linearGradient id="pants" x1="407" y1="575" x2="590" y2="936" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5F87D9"/>
+      <stop offset="1" stop-color="#3F69B6"/>
+    </linearGradient>
+    <linearGradient id="coinBlue" x1="164" y1="181" x2="264" y2="281" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63C7FF"/>
+      <stop offset="1" stop-color="#3E6DFF"/>
+    </linearGradient>
+    <linearGradient id="coinPink" x1="779" y1="202" x2="889" y2="312" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8AC4"/>
+      <stop offset="1" stop-color="#7A7AFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="48" fill="url(#bg)"/>
+  <circle cx="512" cy="320" r="300" stroke="white" stroke-opacity="0.92" stroke-width="2"/>
+  <circle cx="512" cy="320" r="418" stroke="white" stroke-opacity="0.78" stroke-width="2"/>
+
+  <ellipse cx="512" cy="892" rx="268" ry="22" fill="#DCE7E6" fill-opacity="0.55"/>
+
+  <g transform="translate(115 150)">
+    <g transform="translate(0 0)">
+      <circle cx="119" cy="148" r="57" fill="url(#coinBlue)"/>
+      <circle cx="119" cy="148" r="41" fill="#FFFFFF" fill-opacity="0.16"/>
+      <path d="M109 167C109 168.657 110.343 170 112 170H126C134.837 170 142 162.837 142 154V148C142 140.82 137.257 134.55 130.425 132.507L124 130.6V123.2C124 122.538 123.462 122 122.8 122H119.2C118.538 122 118 122.538 118 123.2V129.75C118 130.41 117.46 130.95 116.8 130.95H110.4C108.53 130.95 107 132.48 107 134.35C107 136.22 108.53 137.75 110.4 137.75H122.3C127.133 137.75 131 141.617 131 146.45C131 151.283 127.133 155.15 122.3 155.15H110C109.343 155.15 108.8 155.693 108.8 156.35V167Z" fill="#FFFFFF"/>
+      <circle cx="94" cy="142" r="8" fill="#FF6BA6"/>
+      <circle cx="151" cy="157" r="8" fill="#FFC14E"/>
+    </g>
+
+    <g transform="translate(619 120)">
+      <circle cx="109" cy="130" r="60" fill="url(#coinPink)"/>
+      <path d="M104 84C104 82.3431 105.343 81 107 81H112C113.657 81 115 82.3431 115 84V98C115 99.6569 113.657 101 112 101H107C105.343 101 104 99.6569 104 98V84Z" fill="#FFD77A"/>
+      <path d="M139 154C139 146.163 132.837 140 125 140H106C101.582 140 98 136.418 98 132C98 127.582 101.582 124 106 124H139" stroke="white" stroke-width="18" stroke-linecap="round"/>
+      <path d="M139 164C139 171.837 132.837 178 125 178H106C101.582 178 98 181.582 98 186C98 190.418 101.582 194 106 194H139" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <g transform="translate(236 186)">
+    <ellipse cx="280" cy="390" rx="140" ry="172" fill="url(#pants)"/>
+    <path d="M250 248C293 248 324 283 324 325V388C324 403 311 416 296 416H252C230 416 212 398 212 376V329C212 286 217 248 250 248Z" fill="url(#shirt)"/>
+    <path d="M220 295C192 299 176 316 168 342C159 372 152 401 148 420C146 428 141 434 134 438C120 445 107 461 114 477C122 495 143 494 158 491C192 483 225 452 244 432" fill="none" stroke="#E9B39D" stroke-width="28" stroke-linecap="round"/>
+    <path d="M296 292C327 296 349 316 357 344C366 375 373 401 377 419C380 428 386 435 393 439C408 447 422 463 416 479C409 497 388 495 373 492C336 484 304 452 287 431" fill="none" stroke="#E9B39D" stroke-width="28" stroke-linecap="round"/>
+    <circle cx="256" cy="190" r="48" fill="#FFD4BF"/>
+    <path d="M230 188C230 155 254 129 286 129C318 129 342 155 342 188V208C342 244 314 272 278 272C245 272 230 241 230 208V188Z" fill="#7C3A33"/>
+    <path d="M238 184C242 154 261 138 286 138C309 138 329 154 335 181C329 196 311 211 286 211C259 211 243 199 238 184Z" fill="#9A4C44"/>
+    <rect x="232" y="184" width="18" height="28" rx="8" fill="#FFD4BF"/>
+    <rect x="322" y="184" width="18" height="28" rx="8" fill="#FFD4BF"/>
+    <rect x="240" y="187" width="18" height="8" rx="4" fill="#6A332D"/>
+    <rect x="311" y="187" width="18" height="8" rx="4" fill="#6A332D"/>
+    <rect x="245" y="172" width="54" height="14" rx="7" fill="#6B3B37"/>
+    <rect x="249" y="180" width="46" height="18" rx="9" fill="#FFD7C0"/>
+    <rect x="261" y="188" width="22" height="10" rx="5" fill="#E58A7A"/>
+    <rect x="259" y="196" width="26" height="16" rx="8" fill="#8B3A38"/>
+    <rect x="249" y="175" width="11" height="38" rx="5.5" fill="#FFD7C0"/>
+    <rect x="292" y="175" width="11" height="38" rx="5.5" fill="#FFD7C0"/>
+    <rect x="233" y="212" width="20" height="16" rx="8" fill="#E0A793"/>
+    <rect x="320" y="212" width="20" height="16" rx="8" fill="#E0A793"/>
+    <path d="M208 150C204 132 210 118 224 110C237 103 251 102 262 106" stroke="#7C3A33" stroke-width="18" stroke-linecap="round"/>
+    <path d="M334 152C340 136 336 121 322 111C309 102 295 100 283 104" stroke="#7C3A33" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="265" cy="186" r="5" fill="#5A2E2A"/>
+    <circle cx="308" cy="186" r="5" fill="#5A2E2A"/>
+    <path d="M270 206C279 214 293 214 301 206" stroke="#6C302B" stroke-width="5" stroke-linecap="round"/>
+
+    <g transform="translate(-118 110)">
+      <circle cx="0" cy="0" r="66" fill="#FFFFFF" fill-opacity="0.45"/>
+      <circle cx="0" cy="0" r="56" fill="url(#coinBlue)"/>
+      <path d="M-16 14C-16 9.58172 -12.4183 6 -8 6H8C17.3888 6 25 13.6112 25 23V29C25 38.3888 17.3888 46 8 46H-3C-8.52285 46 -13 41.5228 -13 36V28C-13 23.5817 -9.41828 20 -5 20H18" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+      <circle cx="-20" cy="-6" r="5" fill="#FF6BA6"/>
+      <circle cx="22" cy="8" r="5" fill="#FFC14E"/>
+    </g>
+
+    <g transform="translate(400 106)">
+      <circle cx="0" cy="0" r="66" fill="#FFFFFF" fill-opacity="0.45"/>
+      <circle cx="0" cy="0" r="56" fill="url(#coinPink)"/>
+      <path d="M-20 -18L18 -6L5 28L-29 7L-20 -18Z" fill="#FFFFFF" fill-opacity="0.95"/>
+      <path d="M-6 -24L18 -16L8 8L-16 -1L-6 -24Z" fill="#FFC14E"/>
+      <path d="M12 -12L34 -4L26 24L4 16L12 -12Z" fill="#5E73F8"/>
+    </g>
+  </g>
+</svg>
